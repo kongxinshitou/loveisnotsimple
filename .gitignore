@@ -1,0 +1,10 @@
+# Claude Code 本地设置（含 OAuth Token，不上传）
+.claude/settings.local.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 构建产物
+*.apk
+*.aab
